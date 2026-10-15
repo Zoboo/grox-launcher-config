@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "server": {
+    "address": "grox.gg",
+    "port": 25565
+  },
+  "launch": {
+    "enabled": false,
+    "minecraftVersion": null,
+    "loader": "vanilla",
+    "loaderVersion": null,
+    "mods": [],
+    "configFiles": [],
+    "resourcePacks": []
+  }
+}
